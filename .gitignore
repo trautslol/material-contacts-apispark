@@ -1,9 +1,1 @@
-/.settings
-/target
-*.iml
-.idea
-.classpath
-.project
-dependency-reduced-pom.xml
-*.out
-
+/target/
